@@ -1,7 +1,7 @@
 # firmanbgsk
 Personal Github Profil Readme
 <h1 align="center">Hai 👋, saya Moch.firman bagus kiswanto</h1>
-<h3 align="center">Seorang pengembang frontend yang bersemangat dari India</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maman0408&label=Profile%20views&color=0e75b6&style=flat" alt="maman0408" /> </p>
 
